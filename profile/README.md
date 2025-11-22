@@ -30,39 +30,39 @@ Our university is built on three core pillars:
 Yes, we have real departments. Yes, each one has a cat dean. <br>
 No, this is not a joke. (It is absolutely a joke.)
 
-### Department of Cybersecurity
+### ✿ Department of Cybersecurity
 
 Cats trained in ethical hacking, password sniffing, and “accidentally” knocking over suspicious USB drives. Focused on technology, security, artificial intelligence, and computational creativity. Students learn to defend networks while napping in the sun.
 
-### Department of Drama & Performing Arts
+### ✿ Department of Drama & Performing Arts
 
 Emotional, dramatic, theatrical cats who meow like they’re in a telenovela. Dedicated to performance, visual expression, narrative design, and cultural studies. (Admissions may require one dramatic faint on a carpet.)
 
-### Department of Makeup & Aesthetics
+### ✿ Department of Makeup & Aesthetics
 
 Where glam meets claws. Beauty-guru cats teach contouring, color theory, and eyeliner sharper than their claws. Focused on visual aesthetics, artistic expression, and self-presentation across mediums.
 
-### Department of Cinema & Digital Arts
+### ✿ Department of Cinema & Digital Arts
 
 Filmmaker cats who know exactly how to block the camera. Study cinematography, storyboard creation, editing, and immersive visual storytelling. Students often accidentally star in their own productions.
 
-### Department of Computer Science
+### ✿ Department of Computer Science
 
 Coders who vibe in pink, lavender, and late-night debugging storms. Focused on software development, algorithms, and computational thinking. Finals may involve literally chasing bugs.
 
-### Department of Sciences
+### ✿ Department of Sciences
 
 Exploring Biology, Chemistry, Physics, and the eternal mystery of the moving laser dot. Students conduct experiments in sunlit corners, storms permitted but optional.
 
-### School of Cozy Environmental Studies
+### ✿ School of Cozy Environmental Studies
 
 A holistic program dedicated to rose gardens, stormy skies, and the art of tea. Focused on environmental awareness, comfort-based research, and living in harmony with one’s surroundings.
 
-### School of Aesthetic & Surreal Studies
+### ✿ School of Aesthetic & Surreal Studies
 
 Examines atmosphere, dream logic, emotional landscapes, and ethereal design. Students learn to translate feelings into spatial, visual, and conceptual work.
 
-### School of Professional & Social Disciplines
+### ✿ School of Professional & Social Disciplines
 
 Covers business, psychology, communication, digital culture, and applied modern studies. Designed for cats and humans alike who operate with equal parts instinct and intentionality.
 
